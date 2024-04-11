@@ -381,6 +381,7 @@ P.O.U.R.:
     -   Er mag geen enkel element 3 keer of meer binnen een seconde flitsen
 
 **Wat kan je hieraan doen?**
+
 - P.O.U.R.
 - Stel deze vragen:
     - Kan deze content door iedereen worden waargenomen? (percievable)
@@ -390,3 +391,17 @@ P.O.U.R.:
 - Beluister jouw digitale product eens met een schermlezer!
 - Ga door je website heen zonder muis
 - Test met je doelgroep
+
+## Gastspreker Rosa Schuurmans - 10-4-2024
+
+**Circuit bending**
+
+De creatieve manipulatie van ciruits in elektronische apparaten om nieuwe muziek- of visuele instrumenten te creëren.
+
+In principe maak je van bestaande (elektronische) spullen iets anders.
+
+Circuit bending is het begin van de elektronische kunst / unstable media.
+
+Circuit bending is te vergelijken met inspect element. Eigenlijk kijk je naar iets wat bestaat (website) en kijk je hoe het werkt en je kan vanalles aanpassen wat erin zit.
+
+> De status-quo niet per definitie accepteren
